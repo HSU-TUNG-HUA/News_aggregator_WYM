@@ -11,8 +11,8 @@ On top of that, comments have been set up this application, making it possible f
 
 1. Create a folder and named it anything you like.
 2. Make sure you have "VS cdoe" installed. You can download it from [here](https://code.visualstudio.com).
-3. Open your "VS cdoe". This README assumes you are using Visual Studio Code (VS Code). Open the terminal in VS Code by clicking on "Terminal" in the menu and selecting "New Terminal".
-4. Open the folder you have just created.
+3. Open the folder you have just created
+4. Open your "VS cdoe". This README assumes you are using Visual Studio Code (VS Code). Open the terminal in VS Code by clicking on "Terminal" in the menu and selecting "New Terminal".
 5. Clone this repository: input `git clone https://github.com/HSU-TUNG-HUA/News_aggregator_WYM.git` in your terminal.
 6. Navigate to the project directory: input `cd News_aggregator_WYM` in your terminal.
 7. Set up a new virtual environment: input `python3 -m venv env` in your terminal.
