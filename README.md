@@ -9,11 +9,13 @@ On top of that, comments have been set up this application, making it possible f
 
 ## Installation
 
-1. Make sure you have Python 3.8 installed. You can download it from [here](https://www.python.org/downloads/).
-2. Open your code editor. This README assumes you are using Visual Studio Code (VS Code). Open the terminal in VS Code by clicking on "Terminal" in the menu and selecting "New Terminal".
-3. Clone this repository: `git clone https://github.com/HSU-TUNG-HUA/News_aggregator_WYM.git`(Running "https://github.com/HSU-TUNG-HUA/News_aggregator_WYM.git" in your termianl)
-4. Navigate to the project directory: `cd News_aggregator_WYM`
-5. Install the necessary packages: `pip3 install -r requirements.txt`
+1. Make sure you have "VS cdoe" installed. You can download it from [here](https://code.visualstudio.com).
+2. Open your "VS cdoe". This README assumes you are using Visual Studio Code (VS Code). Open the terminal in VS Code by clicking on "Terminal" in the menu and selecting "New Terminal".
+3. # Clone this repository: input `git clone https://github.com/HSU-TUNG-HUA/News_aggregator_WYM.git` in your terminal.
+4. # Navigate to the project directory: input `cd News_aggregator_WYM` in your terminal.
+5. # Set up a new virtual environment: input `python3 -m venv env` in your terminal.
+6. # Activate the virtual environment: input `source env/bin/activate` in your terminal.
+7. # Install your dependencies: input `pip3 install -r requirements.txt` in your terminal.
 
 ## Usage
 To run the application locall, open the terminal and follow the instructions :
@@ -22,3 +24,4 @@ To run the application locall, open the terminal and follow the instructions :
 2. Run the application: `python app.py`
 
 The application will start, and you can access it at `http://localhost:5000` in your web browser.
+Now you can enjoy the website !
