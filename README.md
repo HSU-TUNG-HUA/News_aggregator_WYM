@@ -9,13 +9,15 @@ On top of that, comments have been set up this application, making it possible f
 
 ## Installation
 
-1. Make sure you have "VS cdoe" installed. You can download it from [here](https://code.visualstudio.com).
-2. Open your "VS cdoe". This README assumes you are using Visual Studio Code (VS Code). Open the terminal in VS Code by clicking on "Terminal" in the menu and selecting "New Terminal".
-3. Clone this repository: input `git clone https://github.com/HSU-TUNG-HUA/News_aggregator_WYM.git` in your terminal.
-4. Navigate to the project directory: input `cd News_aggregator_WYM` in your terminal.
-5. Set up a new virtual environment: input `python3 -m venv env` in your terminal.
-6. Activate the virtual environment: input `source env/bin/activate` in your terminal.
-7. Install your dependencies: input `pip3 install -r requirements.txt` in your terminal.
+1. Create a folder and named it anything you like.
+2. Make sure you have "VS cdoe" installed. You can download it from [here](https://code.visualstudio.com).
+3. Open your "VS cdoe". This README assumes you are using Visual Studio Code (VS Code). Open the terminal in VS Code by clicking on "Terminal" in the menu and selecting "New Terminal".
+4. Open the folder you have just created.
+5. Clone this repository: input `git clone https://github.com/HSU-TUNG-HUA/News_aggregator_WYM.git` in your terminal.
+6. Navigate to the project directory: input `cd News_aggregator_WYM` in your terminal.
+7. Set up a new virtual environment: input `python3 -m venv env` in your terminal.
+8. Activate the virtual environment: input `source env/bin/activate` in your terminal.
+9. Install your dependencies: input `pip3 install -r requirements.txt` in your terminal.
 
 ## Usage
 To run the application local, open the terminal and follow the instructions :
