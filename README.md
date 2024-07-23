@@ -18,7 +18,7 @@ On top of that, comments have been set up this application, making it possible f
 7. Install your dependencies: input `pip3 install -r requirements.txt` in your terminal.
 
 ## Usage
-To run the application locall, open the terminal and follow the instructions :
+To run the application local, open the terminal and follow the instructions :
 
 1. Navigate to the project directory if you haven't already: `cd News_aggregator_WYM`
 2. Run the application: `python app.py`
