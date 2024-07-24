@@ -11,7 +11,7 @@ On top of that, comments have been set up this application, making it possible f
 
 1. Create a folder and named it anything you like.
 2. Make sure you have "VS cdoe" installed. You can download it from [here](https://code.visualstudio.com).
-3. Download python extension in your VS coe if you haven't 
+3. Download python extension in your VS coed if you haven't 
 4. Open the folder you have just created
 5. Open your "VS cdoe". This README assumes you are using Visual Studio Code (VS Code). Open the terminal in VS Code by clicking on "Terminal" in the menu and selecting "New Terminal".
 6. Clone this repository: input `git clone https://github.com/HSU-TUNG-HUA/News_aggregator_WYM.git` in your terminal.
